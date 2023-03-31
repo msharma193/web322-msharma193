@@ -9,5 +9,5 @@ Student Email :
 Course/Section:
 
 ## Project URLs
-GitHub Repo   : https://github.com/<repo_name>/
+GitHub Repo   : https://github.com/msharma193/web322-msharma193.git
 Cyclic URL    : https://cute-erin-dibbler.cyclic.app
