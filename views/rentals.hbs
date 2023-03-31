@@ -1,0 +1,14 @@
+ <div class="container">
+      {{#each rentals}}
+            <section class="rental-section">
+                  <center><b><p id="cityp">{{cityProvince}}</p></b></center>
+                  <div class="rentals-grid">
+                  {{#each rentals}}
+                  <div class="rental-card">
+                        {{>rental this}}
+                        </div>
+                  {{/each}}
+                  </div>
+            </section>
+      {{/each}}
+ </div>
